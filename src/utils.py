@@ -39,4 +39,5 @@ def generate_sitemap(app):
              <ul style="text-align: left;">
              """ + links_html + """
             </ul>
-        </div>"""
+        </div>
+        """
